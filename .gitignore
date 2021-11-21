@@ -1,11 +1,3 @@
-#IDEA and IDE
-.target
-.project
-.classpath
-.idea
-*.iml
-bin/
-
 # General
 .DS_Store
 .AppleDouble
