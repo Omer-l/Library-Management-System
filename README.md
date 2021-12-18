@@ -1,13 +1,15 @@
-<h1 align="center"> Library-Management-System </h1>
 <h5>Software Engineering Coursework, Second Year of Computer Science</h5>
 
-<h2 align="center">Scenario</h2>
+![Page 1](README_Images/page1.png "Page 1")
+![Page 2](README_Images/page2.png "Page 2")
+![Page 3](README_Images/page3.png "Page 3")
+![Page 4](README_Images/page4.png "Page 4")
+![Page 5](README_Images/page5.png "Page 5")
+![Page 6](README_Images/page6.png "Page 6")
+![Page 7](README_Images/page7.png "Page 7")
+![Page 9](README_Images/page9.png "Page 9")
+![Page 10](README_Images/page10.png "Page 10")
 
-<p align="justify">
-  A library has found their book search system has become slower as their collection of books has grown. They need an efficient program which allows searching for books by title and adding and removing books.
-
-The program I have designed will load all the books from the text file into the binary search tree before the user interface appears. Then the user can interact with the system. The user may choose to do the following: display all books, search, partial search, add, remove all or a single damaged or a lost book.
-</p>
 
 Program presents the User with a recurring console-based menu to interact with the data set. Application consists of some ‘dummy’ data of books pre-coded into the application in the 'books.txt' file.
   
