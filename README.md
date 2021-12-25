@@ -1,5 +1,12 @@
 <h5>Software Engineering Coursework, Second Year of Computer Science</h5>
 
+
+- Developed library management console system using C++ that manages books.
+- Implemented a binary search tree to improve the speed of the library system from _O(n)_ to _O(log n)_ time. 
+- Inspired by how software engineering has improved the speed and space of systems.
+
+<u><b>Utilised:</b></u> C++, Catch2, Algorithms and Data Structures, OOP
+
 ![Page 1](README_Images/page1.png "Page 1")
 ![Page 2](README_Images/page2.png "Page 2")
 ![Page 3](README_Images/page3.png "Page 3")
